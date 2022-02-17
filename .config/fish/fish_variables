@@ -2,7 +2,7 @@
 # VERSION: 3.0
 SETUVAR --export XDG_CACHE_HOME:$HOME/\x2ecache
 SETUVAR --export XDG_CONFIG_HOME:$HOME/\x2econfig
-SETUVAR --export $HOME/\x2elocal/share:$HOME/\x2elocal/share
+SETUVAR --export XDG_DATA_HOME:$HOME/\x2elocal/share
 SETUVAR --export ANDROID_SDK_HOME:$HOME/\x2econfig/android
 SETUVAR --export ANSIBLE_CONFIG:$HOME/\x2econfig/ansible/ansible\x2ecfg
 SETUVAR --export AWT_TOOLKIT:MToolkit\x20wmname\x20LG3D
