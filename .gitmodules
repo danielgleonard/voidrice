@@ -1,3 +1,6 @@
 [submodule ".config/mpv/script_modules/mpvSockets"]
 	path = .config/mpv/script_modules/mpvSockets
 	url = https://github.com/wis/mpvSockets.git
+[submodule ".local/share/omf"]
+	path = .local/share/omf
+	url = https://github.com/oh-my-fish/oh-my-fish.git
